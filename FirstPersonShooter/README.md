@@ -10,6 +10,7 @@ First person Point of View
 -  Aligning the gun's position into the camera frame
 -  Adding the shooting sound upon fire (click)
 -  Implementing the bullet hole with the decaf (sprite)
+
 ![](../Images/FirstpersonPOV.PNG)
 
 
