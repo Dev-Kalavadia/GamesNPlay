@@ -18,12 +18,13 @@ Unity Project for Games n Play class
 
 Import the Character onto an empty plane 
 
-![Character](../../Images/Animation/Capture.PNG)
+
+![Character](../Images/Animation/Capture.PNG)
 
 Create the animation control machine and create a new idle state to be linked to the jump animation
 Make sure that the animation rigid body is set to Humanoid 
 
 Here is a how the final animation looks like
 
-![GIF of the animation](../../Images/Animation/GIF%205-13-2023%207-21-58%20PM.gif)
+![GIF of the animation](../Images/Animation/GIF%205-13-2023%207-21-58%20PM.gif)
     
